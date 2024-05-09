@@ -1,0 +1,5 @@
+Product Category      Sales
+A       Electronics   100
+B       Apparel       75
+C       Electronics   200
+D       Furniture     150
